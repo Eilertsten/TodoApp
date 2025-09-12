@@ -1,16 +1,19 @@
 ﻿@inherits LayoutComponentBase
-<div class="page" style="color: aqua;">
+<div class="page" style="color: crimson;">
     <div class="sidebar">
-        NavMenu klasse kall (MainLayout.razor):
+        NavMenu klasse sidebar (MainLayout.razor):
         <NavMenu />
     </div>
-
+<hr><hr>
     <main>
-        <div class="top-row px-4" style="color: burlywood;">
+        @* <div class="top-row px-4" style="color: burlywood;">
             <a href="https://learn.microsoft.com/aspnet/core/" target="_blank">About</a>
-        </div>
-        Main Body  (MainLayout.razor):
+        </div> *@
+        
         <article class="content px-4">
+             <hr>
+             <div>Body i MainLayout.razor</div>
+             <hr>
             @Body
         </article>
     </main>
