@@ -14,15 +14,16 @@ jobs:
       - name: Setup .NET
         uses: actions/setup-dotnet@v3
         with:
-          dotnet-version: 9.0.x   # or 8.0.x if you target LTS
+          dotnet-version: 9.0.x   # or 8.0.x if you switched
+
+      - name: Install WASM workload
+        run: dotnet workload install wasm-tools
 
       - name: Publish Blazor app
-        run: dotnet publish TodoApp/TodoApp.csproj -c Release -o release
+        run: dotnet publish TodoApp.csproj -c Release -o release
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: release/wwwroot
-
-          
