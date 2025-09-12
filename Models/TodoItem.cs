@@ -4,6 +4,7 @@ namespace TodoApp.Models
     {
         public int Id { get; set; }
         public string Title { get; set; } = "";
-        public bool IsDone { get; set; }
+        public bool Is_Done { get; set; }  // note: matches `is_done` in DB
     }
 }
+

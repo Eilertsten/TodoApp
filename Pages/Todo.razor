@@ -1,6 +1,7 @@
 @page "/todo"
-@* @using TodoApp.Models
-@inject TodoService TodoService *@
+@using TodoApp.Models
+@using TodoApp.Services
+@inject SupabaseTodoService TodoService
 
 <h3>My ToDo List</h3>
 
@@ -8,34 +9,56 @@
 <button @onclick="AddTodo">Add</button>
 
 <ul>
-    @foreach (var todo in TodoService.GetAll())
+    @if (todos == null)
     {
-        <li>
-            @* <input type="checkbox" @bind="todo.IsDone" @onchange="() => ToggleTodo(todo.Id)" /> *@
-            <input type="checkbox" @bind="todo.IsDone" />
-            <span style="text-decoration:@(todo.IsDone ? "line-through" : "none")">@todo.Title</span>
-            <button @onclick="() => RemoveTodo(todo.Id)">❌</button>
-        </li>
+        <li>Loading...</li>
+    }
+    else
+    {
+        @foreach (var todo in todos)
+        {
+            <li>
+                <input type="checkbox" checked="@todo.Is_Done" @onchange="() => ToggleTodo(todo)" />
+                <span style="text-decoration:@(todo.Is_Done ? "line-through" : "none")">@todo.Title</span>
+                <button @onclick="() => RemoveTodo(todo.Id)">❌</button>
+            </li>
+        }
     }
 </ul>
 
+
 @code {
+    private List<TodoItem>? todos;
     private string newTodo = "";
 
-    private void AddTodo()
+    protected override async Task OnInitializedAsync()
+    {
+        todos = await TodoService.GetTodos();
+    }
+
+    private async Task AddTodo()
     {
         if (!string.IsNullOrWhiteSpace(newTodo))
         {
-            TodoService.Add(newTodo);
+            await TodoService.AddTodo(newTodo);
+            todos = await TodoService.GetTodos();
             newTodo = "";
         }
     }
 
-    private void ToggleTodo(int id) => TodoService.ToggleDone(id);
+    private async Task ToggleTodo(TodoItem todo)
+    {
+        await TodoService.ToggleTodo(todo.Id, todo.Is_Done);
+        todos = await TodoService.GetTodos();
+    }
 
-    private void RemoveTodo(int id) => TodoService.Remove(id);
-
-    //SenjaToDo2025!
-    //https://lpwfeklbrbzylxqhdctp.supabase.co
-    //eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imxwd2Zla2xicmJ6eWx4cWhkY3RwIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTc2NTY2NjgsImV4cCI6MjA3MzIzMjY2OH0.BcKRMBV38T2GQ2QtsY5jBobICOA0vWqJtsMU9MQNxLU
+    private async Task RemoveTodo(int id)
+    {
+        await TodoService.DeleteTodo(id);
+        todos = await TodoService.GetTodos();
+    }
 }
+
+    @* private void ToggleTodo(int id) => TodoService.ToggleDone(id);
+
+    private void RemoveTodo(int id) => TodoService.Remove(id); *@

@@ -9,6 +9,10 @@
       "PackagePath": "staticwebassets\\TodoApp.styles.css"
     },
     {
+      "Id": "C:\\Users\\phm975\\TodoApp\\wwwroot\\appsettings.json",
+      "PackagePath": "staticwebassets\\appsettings.json"
+    },
+    {
       "Id": "C:\\Users\\phm975\\TodoApp\\wwwroot\\css\\app.css",
       "PackagePath": "staticwebassets\\css\\app.css"
     },
