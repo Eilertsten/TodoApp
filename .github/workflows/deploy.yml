@@ -2,7 +2,7 @@ name: Deploy Blazor App to GitHub Pages
 
 on:
   push:
-    branches: [ "main" ]  # deploy when main branch updates
+    branches: [ "main" ]
 
 jobs:
   build-and-deploy:
@@ -14,13 +14,15 @@ jobs:
       - name: Setup .NET
         uses: actions/setup-dotnet@v3
         with:
-          dotnet-version: 9.0.x   # 👈 use 9 instead of 8
+          dotnet-version: 9.0.x   # or 8.0.x if you target LTS
 
-      - name: Publish
-        run: dotnet publish -c Release -o publish
+      - name: Publish Blazor app
+        run: dotnet publish TodoApp/TodoApp.csproj -c Release -o release
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./publish/wwwroot
+          publish_dir: release/wwwroot
+
+          

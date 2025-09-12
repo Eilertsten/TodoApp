@@ -1,0 +1,6 @@
+C:\Users\phm975\TodoApp\release\publish\web.config
+C:\Users\phm975\TodoApp\release\publish\TodoApp.staticwebassets.endpoints.json
+C:\Users\phm975\TodoApp\release\publish\wwwroot\appsettings.json
+C:\Users\phm975\TodoApp\release\publish\wwwroot\sample-data\weather.json
+C:\Users\phm975\TodoApp\release\publish\wwwroot\_framework\blazor.boot.json
+C:\Users\phm975\TodoApp\release\web.config

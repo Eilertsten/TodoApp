@@ -199,8 +199,6 @@ C:\Users\phm975\TodoApp\bin\Release\net9.0\wwwroot\_framework\System.Xml.XmlDocu
 C:\Users\phm975\TodoApp\bin\Release\net9.0\wwwroot\_framework\System.Xml.XmlSerializer.bq97vodilp.wasm
 C:\Users\phm975\TodoApp\bin\Release\net9.0\wwwroot\_framework\System.Xml.XPath.k51e820493.wasm
 C:\Users\phm975\TodoApp\bin\Release\net9.0\wwwroot\_framework\System.Xml.XPath.XDocument.0ke5udk43d.wasm
-C:\Users\phm975\TodoApp\bin\Release\net9.0\wwwroot\_framework\TodoApp.jryw2n6k3z.pdb
-C:\Users\phm975\TodoApp\bin\Release\net9.0\wwwroot\_framework\TodoApp.qqv96n7pys.wasm
 C:\Users\phm975\TodoApp\bin\Release\net9.0\wwwroot\_framework\WindowsBase.377bly7twj.wasm
 C:\Users\phm975\TodoApp\bin\Release\net9.0\wwwroot\_framework\System.Xml.XPath.XDocument.0ke5udk43d.wasm.gz
 C:\Users\phm975\TodoApp\bin\Release\net9.0\wwwroot\_framework\System.Private.Xml.ar32x10e5i.wasm.gz
@@ -218,7 +216,6 @@ C:\Users\phm975\TodoApp\bin\Release\net9.0\wwwroot\_framework\System.Collections
 C:\Users\phm975\TodoApp\bin\Release\net9.0\wwwroot\_framework\WindowsBase.377bly7twj.wasm.gz
 C:\Users\phm975\TodoApp\bin\Release\net9.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.bz9hg0lkvw.wasm.gz
 C:\Users\phm975\TodoApp\bin\Release\net9.0\wwwroot\_framework\System.Net.WebProxy.nqav2y7tlw.wasm.gz
-C:\Users\phm975\TodoApp\bin\Release\net9.0\wwwroot\_framework\TodoApp.jryw2n6k3z.pdb.gz
 C:\Users\phm975\TodoApp\bin\Release\net9.0\wwwroot\_framework\System.Net.Primitives.ab5tpb98fw.wasm.gz
 C:\Users\phm975\TodoApp\bin\Release\net9.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.8r1tzxyzhv.wasm.gz
 C:\Users\phm975\TodoApp\bin\Release\net9.0\wwwroot\_framework\System.Diagnostics.Tracing.tpkhn2lksh.wasm.gz
@@ -252,7 +249,6 @@ C:\Users\phm975\TodoApp\bin\Release\net9.0\wwwroot\_framework\System.Diagnostics
 C:\Users\phm975\TodoApp\bin\Release\net9.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.b16upo65in.wasm.gz
 C:\Users\phm975\TodoApp\bin\Release\net9.0\wwwroot\_framework\System.Security.Cryptography.9qczpn3q1h.wasm.gz
 C:\Users\phm975\TodoApp\bin\Release\net9.0\wwwroot\_framework\blazor.webassembly.js.gz
-C:\Users\phm975\TodoApp\bin\Release\net9.0\wwwroot\_framework\TodoApp.qqv96n7pys.wasm.gz
 C:\Users\phm975\TodoApp\bin\Release\net9.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.4ewk3ipqll.wasm.gz
 C:\Users\phm975\TodoApp\bin\Release\net9.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.5qjn02irdd.wasm.gz
 C:\Users\phm975\TodoApp\bin\Release\net9.0\wwwroot\_framework\System.Dynamic.Runtime.88385ealgl.wasm.gz
@@ -816,7 +812,6 @@ C:\Users\phm975\TodoApp\obj\Release\net9.0\scopedcss\projectbundle\TodoApp.bundl
 C:\Users\phm975\TodoApp\obj\Release\net9.0\blazor.build.boot-extension.json
 C:\Users\phm975\TodoApp\obj\Release\net9.0\blazor.boot.json
 C:\Users\phm975\TodoApp\obj\Release\net9.0\compressed\hf3fkoweby-8rbvw3on5j.gz
-C:\Users\phm975\TodoApp\obj\Release\net9.0\compressed\aayg8y5vz5-2owlkdk8cr.gz
 C:\Users\phm975\TodoApp\obj\Release\net9.0\compressed\lrv2t56o84-bqjiyaj88i.gz
 C:\Users\phm975\TodoApp\obj\Release\net9.0\compressed\grkxx30hlz-c2jlpeoesf.gz
 C:\Users\phm975\TodoApp\obj\Release\net9.0\compressed\q2s29hja4l-erw9l3u2r3.gz
@@ -1066,9 +1061,6 @@ C:\Users\phm975\TodoApp\obj\Release\net9.0\compressed\xnu702oy2z-e5oadoz1kk.gz
 C:\Users\phm975\TodoApp\obj\Release\net9.0\compressed\v5j7ugmq7q-tjcz0u77k5.gz
 C:\Users\phm975\TodoApp\obj\Release\net9.0\compressed\g0dom81s0l-tptq2av103.gz
 C:\Users\phm975\TodoApp\obj\Release\net9.0\compressed\5243tastq0-lfu7j35m59.gz
-C:\Users\phm975\TodoApp\obj\Release\net9.0\compressed\8nnom43pwr-qqv96n7pys.gz
-C:\Users\phm975\TodoApp\obj\Release\net9.0\compressed\39rkf4zu55-jryw2n6k3z.gz
-C:\Users\phm975\TodoApp\obj\Release\net9.0\compressed\hzm50kpb46-ro8im9ff5r.gz
 C:\Users\phm975\TodoApp\obj\Release\net9.0\staticwebassets.build.json
 C:\Users\phm975\TodoApp\obj\Release\net9.0\staticwebassets.development.json
 C:\Users\phm975\TodoApp\obj\Release\net9.0\staticwebassets.build.endpoints.json
@@ -1083,3 +1075,16 @@ C:\Users\phm975\TodoApp\obj\Release\net9.0\TodoApp.dll
 C:\Users\phm975\TodoApp\obj\Release\net9.0\refint\TodoApp.dll
 C:\Users\phm975\TodoApp\obj\Release\net9.0\TodoApp.pdb
 C:\Users\phm975\TodoApp\obj\Release\net9.0\ref\TodoApp.dll
+C:\Users\phm975\TodoApp\bin\Release\net9.0\wwwroot\_framework\TodoApp.g2rhruevua.pdb
+C:\Users\phm975\TodoApp\bin\Release\net9.0\wwwroot\_framework\TodoApp.qd51yo68jf.wasm
+C:\Users\phm975\TodoApp\bin\Release\net9.0\wwwroot\_framework\TodoApp.g2rhruevua.pdb.gz
+C:\Users\phm975\TodoApp\bin\Release\net9.0\wwwroot\_framework\TodoApp.qd51yo68jf.wasm.gz
+C:\Users\phm975\TodoApp\bin\Release\net9.0\publish\web.config
+C:\Users\phm975\TodoApp\bin\Release\net9.0\publish\TodoApp.staticwebassets.endpoints.json
+C:\Users\phm975\TodoApp\bin\Release\net9.0\publish\wwwroot\appsettings.json
+C:\Users\phm975\TodoApp\bin\Release\net9.0\publish\wwwroot\sample-data\weather.json
+C:\Users\phm975\TodoApp\bin\Release\net9.0\publish\wwwroot\_framework\blazor.boot.json
+C:\Users\phm975\TodoApp\obj\Release\net9.0\compressed\aayg8y5vz5-0bfrsgkae2.gz
+C:\Users\phm975\TodoApp\obj\Release\net9.0\compressed\8nnom43pwr-qd51yo68jf.gz
+C:\Users\phm975\TodoApp\obj\Release\net9.0\compressed\39rkf4zu55-g2rhruevua.gz
+C:\Users\phm975\TodoApp\obj\Release\net9.0\compressed\hzm50kpb46-3uazy11b7s.gz

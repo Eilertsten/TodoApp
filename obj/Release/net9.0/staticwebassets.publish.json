@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "IRsIZqE/v6y33lI/BEgILw8hFUR/5hdzRYZNqI1BRAc=",
+  "Hash": "r2J7F6MQz8r2NZxrAzMvCIhHgIqTfoLfOUm3PULZmn4=",
   "Source": "TodoApp",
   "BasePath": "/",
   "Mode": "Root",
@@ -41,7 +41,7 @@
       "Identity": "C:\\Users\\phm975\\TodoApp\\bin\\Release\\net9.0\\wwwroot\\_framework\\dotnet.js",
       "SourceId": "TodoApp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\phm975\\TodoApp\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\phm975\\TodoApp\\release\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/dotnet#[.{fingerprint}]?.js",
       "AssetKind": "Publish",
@@ -62,7 +62,7 @@
       "Identity": "C:\\Users\\phm975\\TodoApp\\bin\\Release\\net9.0\\wwwroot\\_framework\\dotnet.native.hmanx9razn.js",
       "SourceId": "TodoApp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\phm975\\TodoApp\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\phm975\\TodoApp\\release\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/dotnet.native.hmanx9razn.js",
       "AssetKind": "Publish",
@@ -83,7 +83,7 @@
       "Identity": "C:\\Users\\phm975\\TodoApp\\bin\\Release\\net9.0\\wwwroot\\_framework\\dotnet.native.p4lwlf2bu1.wasm",
       "SourceId": "TodoApp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\phm975\\TodoApp\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\phm975\\TodoApp\\release\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/dotnet.native.p4lwlf2bu1.wasm",
       "AssetKind": "Publish",
@@ -104,7 +104,7 @@
       "Identity": "C:\\Users\\phm975\\TodoApp\\bin\\Release\\net9.0\\wwwroot\\_framework\\dotnet.runtime.o8gq1i8bk6.js",
       "SourceId": "TodoApp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\phm975\\TodoApp\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\phm975\\TodoApp\\release\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/dotnet.runtime.o8gq1i8bk6.js",
       "AssetKind": "Publish",
@@ -125,7 +125,7 @@
       "Identity": "C:\\Users\\phm975\\TodoApp\\bin\\Release\\net9.0\\wwwroot\\_framework\\icudt_CJK.tjcz0u77k5.dat",
       "SourceId": "TodoApp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\phm975\\TodoApp\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\phm975\\TodoApp\\release\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/icudt_CJK.tjcz0u77k5.dat",
       "AssetKind": "Publish",
@@ -146,7 +146,7 @@
       "Identity": "C:\\Users\\phm975\\TodoApp\\bin\\Release\\net9.0\\wwwroot\\_framework\\icudt_EFIGS.tptq2av103.dat",
       "SourceId": "TodoApp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\phm975\\TodoApp\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\phm975\\TodoApp\\release\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/icudt_EFIGS.tptq2av103.dat",
       "AssetKind": "Publish",
@@ -167,7 +167,7 @@
       "Identity": "C:\\Users\\phm975\\TodoApp\\bin\\Release\\net9.0\\wwwroot\\_framework\\icudt_no_CJK.lfu7j35m59.dat",
       "SourceId": "TodoApp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\phm975\\TodoApp\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\phm975\\TodoApp\\release\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/icudt_no_CJK.lfu7j35m59.dat",
       "AssetKind": "Publish",
@@ -188,7 +188,7 @@
       "Identity": "C:\\Users\\phm975\\TodoApp\\obj\\Release\\net9.0\\blazor.publish.boot.json",
       "SourceId": "TodoApp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\phm975\\TodoApp\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\phm975\\TodoApp\\release\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/blazor.boot.json",
       "AssetKind": "Publish",
@@ -199,8 +199,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "manifest",
-      "Fingerprint": "k56899j8cr",
-      "Integrity": "KG4U+FM+7aRYSVuFF/7ojHm9f5DIwHilx1r55U3pIPc=",
+      "Fingerprint": "5702moylho",
+      "Integrity": "f/xOY82V+/WQuGYFXW635rr8aCKYbNXOlET6o+0esiU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "obj\\Release\\net9.0\\blazor.publish.boot.json"
@@ -293,7 +293,7 @@
       "Identity": "C:\\Users\\phm975\\TodoApp\\obj\\Release\\net9.0\\compressed\\51r7b3vx7g-p4lwlf2bu1.gz",
       "SourceId": "TodoApp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\phm975\\TodoApp\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\phm975\\TodoApp\\release\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/dotnet.native#[.{fingerprint=p4lwlf2bu1}]!.wasm.gz",
       "AssetKind": "Publish",
@@ -692,7 +692,7 @@
       "Identity": "C:\\Users\\phm975\\TodoApp\\obj\\Release\\net9.0\\compressed\\hp4n2te4b4-nseotsck93.gz",
       "SourceId": "TodoApp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\phm975\\TodoApp\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\phm975\\TodoApp\\release\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/dotnet#[.{fingerprint=nseotsck93}]?.js.gz",
       "AssetKind": "Publish",
@@ -818,7 +818,7 @@
       "Identity": "C:\\Users\\phm975\\TodoApp\\obj\\Release\\net9.0\\compressed\\lp55d3wwqu-o8gq1i8bk6.gz",
       "SourceId": "TodoApp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\phm975\\TodoApp\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\phm975\\TodoApp\\release\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/dotnet.runtime#[.{fingerprint=o8gq1i8bk6}]!.js.gz",
       "AssetKind": "Publish",
@@ -2495,7 +2495,7 @@
       "OriginalItemSpec": "C:\\Users\\phm975\\TodoApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\phm975\\TodoApp\\obj\\Release\\net9.0\\compressed\\publish\\nzh5vc0d8m-k56899j8cr.br",
+      "Identity": "C:\\Users\\phm975\\TodoApp\\obj\\Release\\net9.0\\compressed\\publish\\nzh5vc0d8m-5702moylho.br",
       "SourceId": "TodoApp",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\phm975\\TodoApp\\obj\\Release\\net9.0\\compressed\\publish\\",
@@ -2509,14 +2509,14 @@
       "RelatedAsset": "C:\\Users\\phm975\\TodoApp\\obj\\Release\\net9.0\\blazor.publish.boot.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "br",
-      "Fingerprint": "tiv0e9aopa",
-      "Integrity": "ldEEDmVEqQdqb3tKzvZi3zeUMQ6J61EmYJic24FVs0s=",
+      "Fingerprint": "60u4ouz7aa",
+      "Integrity": "Gk9BRr3EHS+Airg0vzYplKuBv0l9IXh+0T30v/21HlQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\phm975\\TodoApp\\obj\\Release\\net9.0\\blazor.publish.boot.json"
     },
     {
-      "Identity": "C:\\Users\\phm975\\TodoApp\\obj\\Release\\net9.0\\compressed\\publish\\nzh5vc0d8m-k56899j8cr.gz",
+      "Identity": "C:\\Users\\phm975\\TodoApp\\obj\\Release\\net9.0\\compressed\\publish\\nzh5vc0d8m-5702moylho.gz",
       "SourceId": "TodoApp",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\phm975\\TodoApp\\obj\\Release\\net9.0\\compressed\\publish\\",
@@ -2530,8 +2530,8 @@
       "RelatedAsset": "C:\\Users\\phm975\\TodoApp\\obj\\Release\\net9.0\\blazor.publish.boot.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "g1qy0caxhv",
-      "Integrity": "VEjii81GxxICEMGpzOFcsD0nCm/zvuwcCRv0myevBq0=",
+      "Fingerprint": "cxzlz6jde3",
+      "Integrity": "IPTRJQAIgdprLB8K6/6xCY2zVfM46Pko1fitk03Tc2Y=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\phm975\\TodoApp\\obj\\Release\\net9.0\\blazor.publish.boot.json"
@@ -3335,12 +3335,12 @@
       "OriginalItemSpec": "C:\\Users\\phm975\\TodoApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\phm975\\TodoApp\\obj\\Release\\net9.0\\compressed\\publish\\xdoc17q7fi-qqv96n7pys.br",
+      "Identity": "C:\\Users\\phm975\\TodoApp\\obj\\Release\\net9.0\\compressed\\publish\\xdoc17q7fi-qd51yo68jf.br",
       "SourceId": "TodoApp",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\phm975\\TodoApp\\obj\\Release\\net9.0\\compressed\\publish\\",
       "BasePath": "/",
-      "RelativePath": "_framework/TodoApp#[.{fingerprint=qqv96n7pys}]!.wasm.br",
+      "RelativePath": "_framework/TodoApp#[.{fingerprint=qd51yo68jf}]!.wasm.br",
       "AssetKind": "Publish",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -3349,19 +3349,19 @@
       "RelatedAsset": "C:\\Users\\phm975\\TodoApp\\obj\\Release\\net9.0\\webcil\\publish\\TodoApp.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "br",
-      "Fingerprint": "4rbksd5xdv",
-      "Integrity": "gAcP0cJNPzvB6NhldktrcgJYgwDado4HyDNHL2XRQQY=",
+      "Fingerprint": "nrw01xq89j",
+      "Integrity": "4wrIM9azHogmMRDHqA4uD48X1lIJa2uNkaZrQELKyEg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\phm975\\TodoApp\\obj\\Release\\net9.0\\webcil\\publish\\TodoApp.wasm"
     },
     {
-      "Identity": "C:\\Users\\phm975\\TodoApp\\obj\\Release\\net9.0\\compressed\\publish\\xdoc17q7fi-qqv96n7pys.gz",
+      "Identity": "C:\\Users\\phm975\\TodoApp\\obj\\Release\\net9.0\\compressed\\publish\\xdoc17q7fi-qd51yo68jf.gz",
       "SourceId": "TodoApp",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\phm975\\TodoApp\\obj\\Release\\net9.0\\compressed\\publish\\",
       "BasePath": "/",
-      "RelativePath": "_framework/TodoApp#[.{fingerprint=qqv96n7pys}]!.wasm.gz",
+      "RelativePath": "_framework/TodoApp#[.{fingerprint=qd51yo68jf}]!.wasm.gz",
       "AssetKind": "Publish",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -3370,8 +3370,8 @@
       "RelatedAsset": "C:\\Users\\phm975\\TodoApp\\obj\\Release\\net9.0\\webcil\\publish\\TodoApp.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "nmkdfjva3a",
-      "Integrity": "r7SgcigGRP0CNLU/GSSdA65N2HT5rG95i14lfBFWzy4=",
+      "Fingerprint": "33p504xvk7",
+      "Integrity": "wZFm9VzCB8H8D/qn3JXPEPCr70hg6QVSrehgEvzciYY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\phm975\\TodoApp\\obj\\Release\\net9.0\\webcil\\publish\\TodoApp.wasm"
@@ -3671,12 +3671,12 @@
       "OriginalItemSpec": "C:\\Users\\phm975\\TodoApp\\obj\\Release\\net9.0\\webcil\\publish\\System.Text.RegularExpressions.wasm"
     },
     {
-      "Identity": "C:\\Users\\phm975\\TodoApp\\obj\\Release\\net9.0\\compressed\\publish\\aayg8y5vz5-2owlkdk8cr.br",
+      "Identity": "C:\\Users\\phm975\\TodoApp\\obj\\Release\\net9.0\\compressed\\publish\\aayg8y5vz5-0bfrsgkae2.br",
       "SourceId": "TodoApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\phm975\\TodoApp\\obj\\Release\\net9.0\\compressed\\publish\\",
       "BasePath": "/",
-      "RelativePath": "index#[.{fingerprint=2owlkdk8cr}]?.html.br",
+      "RelativePath": "index#[.{fingerprint=0bfrsgkae2}]?.html.br",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -3685,8 +3685,8 @@
       "RelatedAsset": "C:\\Users\\phm975\\TodoApp\\wwwroot\\index.html",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "br",
-      "Fingerprint": "k908forwn5",
-      "Integrity": "qM1w43XoHNCIhRalj1+er+bTx27pf94t1PdWHcCQ1+k=",
+      "Fingerprint": "nyjyxham61",
+      "Integrity": "caEaxeoh14aGN5J8dXE5rHe3jp3zqfP3y1WkZo8cR9E=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\phm975\\TodoApp\\wwwroot\\index.html"
@@ -3758,7 +3758,7 @@
       "Identity": "C:\\Users\\phm975\\TodoApp\\obj\\Release\\net9.0\\compressed\\sud9d7cjjp-hmanx9razn.gz",
       "SourceId": "TodoApp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\phm975\\TodoApp\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\phm975\\TodoApp\\release\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/dotnet.native#[.{fingerprint=hmanx9razn}]!.js.gz",
       "AssetKind": "Publish",
@@ -4091,12 +4091,12 @@
       "OriginalItemSpec": "C:\\Users\\phm975\\TodoApp\\obj\\Release\\net9.0\\scopedcss\\projectbundle\\TodoApp.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\phm975\\TodoApp\\obj\\Release\\net9.0\\compressed\\aayg8y5vz5-2owlkdk8cr.gz",
+      "Identity": "C:\\Users\\phm975\\TodoApp\\obj\\Release\\net9.0\\compressed\\aayg8y5vz5-0bfrsgkae2.gz",
       "SourceId": "TodoApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\phm975\\TodoApp\\obj\\Release\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "index#[.{fingerprint=2owlkdk8cr}]?.html.gz",
+      "RelativePath": "index#[.{fingerprint=0bfrsgkae2}]?.html.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -4105,8 +4105,8 @@
       "RelatedAsset": "C:\\Users\\phm975\\TodoApp\\wwwroot\\index.html",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "omgfr10rcd",
-      "Integrity": "8GBKAkmk4xkaPrHQ/HneLGXwXh9g+nQcvP6yY2khvGg=",
+      "Fingerprint": "pfcc67eby0",
+      "Integrity": "C1RB3YV9n3Lhx/yaoYrBdQXNKgH2Y+0ivcef/avmEqQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\phm975\\TodoApp\\wwwroot\\index.html"
@@ -4157,7 +4157,7 @@
       "Identity": "C:\\Users\\phm975\\TodoApp\\obj\\Release\\net9.0\\webcil\\publish\\Microsoft.AspNetCore.Components.wasm",
       "SourceId": "TodoApp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\phm975\\TodoApp\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\phm975\\TodoApp\\release\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/Microsoft.AspNetCore.Components#[.{fingerprint}]!.wasm",
       "AssetKind": "Publish",
@@ -4178,7 +4178,7 @@
       "Identity": "C:\\Users\\phm975\\TodoApp\\obj\\Release\\net9.0\\webcil\\publish\\Microsoft.AspNetCore.Components.Web.wasm",
       "SourceId": "TodoApp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\phm975\\TodoApp\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\phm975\\TodoApp\\release\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/Microsoft.AspNetCore.Components.Web#[.{fingerprint}]!.wasm",
       "AssetKind": "Publish",
@@ -4199,7 +4199,7 @@
       "Identity": "C:\\Users\\phm975\\TodoApp\\obj\\Release\\net9.0\\webcil\\publish\\Microsoft.AspNetCore.Components.WebAssembly.wasm",
       "SourceId": "TodoApp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\phm975\\TodoApp\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\phm975\\TodoApp\\release\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/Microsoft.AspNetCore.Components.WebAssembly#[.{fingerprint}]!.wasm",
       "AssetKind": "Publish",
@@ -4220,7 +4220,7 @@
       "Identity": "C:\\Users\\phm975\\TodoApp\\obj\\Release\\net9.0\\webcil\\publish\\Microsoft.Extensions.Configuration.Abstractions.wasm",
       "SourceId": "TodoApp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\phm975\\TodoApp\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\phm975\\TodoApp\\release\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/Microsoft.Extensions.Configuration.Abstractions#[.{fingerprint}]!.wasm",
       "AssetKind": "Publish",
@@ -4241,7 +4241,7 @@
       "Identity": "C:\\Users\\phm975\\TodoApp\\obj\\Release\\net9.0\\webcil\\publish\\Microsoft.Extensions.Configuration.Json.wasm",
       "SourceId": "TodoApp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\phm975\\TodoApp\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\phm975\\TodoApp\\release\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/Microsoft.Extensions.Configuration.Json#[.{fingerprint}]!.wasm",
       "AssetKind": "Publish",
@@ -4262,7 +4262,7 @@
       "Identity": "C:\\Users\\phm975\\TodoApp\\obj\\Release\\net9.0\\webcil\\publish\\Microsoft.Extensions.Configuration.wasm",
       "SourceId": "TodoApp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\phm975\\TodoApp\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\phm975\\TodoApp\\release\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/Microsoft.Extensions.Configuration#[.{fingerprint}]!.wasm",
       "AssetKind": "Publish",
@@ -4283,7 +4283,7 @@
       "Identity": "C:\\Users\\phm975\\TodoApp\\obj\\Release\\net9.0\\webcil\\publish\\Microsoft.Extensions.DependencyInjection.Abstractions.wasm",
       "SourceId": "TodoApp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\phm975\\TodoApp\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\phm975\\TodoApp\\release\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/Microsoft.Extensions.DependencyInjection.Abstractions#[.{fingerprint}]!.wasm",
       "AssetKind": "Publish",
@@ -4304,7 +4304,7 @@
       "Identity": "C:\\Users\\phm975\\TodoApp\\obj\\Release\\net9.0\\webcil\\publish\\Microsoft.Extensions.DependencyInjection.wasm",
       "SourceId": "TodoApp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\phm975\\TodoApp\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\phm975\\TodoApp\\release\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/Microsoft.Extensions.DependencyInjection#[.{fingerprint}]!.wasm",
       "AssetKind": "Publish",
@@ -4325,7 +4325,7 @@
       "Identity": "C:\\Users\\phm975\\TodoApp\\obj\\Release\\net9.0\\webcil\\publish\\Microsoft.Extensions.Logging.Abstractions.wasm",
       "SourceId": "TodoApp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\phm975\\TodoApp\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\phm975\\TodoApp\\release\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/Microsoft.Extensions.Logging.Abstractions#[.{fingerprint}]!.wasm",
       "AssetKind": "Publish",
@@ -4346,7 +4346,7 @@
       "Identity": "C:\\Users\\phm975\\TodoApp\\obj\\Release\\net9.0\\webcil\\publish\\Microsoft.Extensions.Logging.wasm",
       "SourceId": "TodoApp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\phm975\\TodoApp\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\phm975\\TodoApp\\release\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/Microsoft.Extensions.Logging#[.{fingerprint}]!.wasm",
       "AssetKind": "Publish",
@@ -4367,7 +4367,7 @@
       "Identity": "C:\\Users\\phm975\\TodoApp\\obj\\Release\\net9.0\\webcil\\publish\\Microsoft.Extensions.Options.wasm",
       "SourceId": "TodoApp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\phm975\\TodoApp\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\phm975\\TodoApp\\release\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/Microsoft.Extensions.Options#[.{fingerprint}]!.wasm",
       "AssetKind": "Publish",
@@ -4388,7 +4388,7 @@
       "Identity": "C:\\Users\\phm975\\TodoApp\\obj\\Release\\net9.0\\webcil\\publish\\Microsoft.Extensions.Primitives.wasm",
       "SourceId": "TodoApp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\phm975\\TodoApp\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\phm975\\TodoApp\\release\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/Microsoft.Extensions.Primitives#[.{fingerprint}]!.wasm",
       "AssetKind": "Publish",
@@ -4409,7 +4409,7 @@
       "Identity": "C:\\Users\\phm975\\TodoApp\\obj\\Release\\net9.0\\webcil\\publish\\Microsoft.JSInterop.wasm",
       "SourceId": "TodoApp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\phm975\\TodoApp\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\phm975\\TodoApp\\release\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/Microsoft.JSInterop#[.{fingerprint}]!.wasm",
       "AssetKind": "Publish",
@@ -4430,7 +4430,7 @@
       "Identity": "C:\\Users\\phm975\\TodoApp\\obj\\Release\\net9.0\\webcil\\publish\\Microsoft.JSInterop.WebAssembly.wasm",
       "SourceId": "TodoApp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\phm975\\TodoApp\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\phm975\\TodoApp\\release\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/Microsoft.JSInterop.WebAssembly#[.{fingerprint}]!.wasm",
       "AssetKind": "Publish",
@@ -4451,7 +4451,7 @@
       "Identity": "C:\\Users\\phm975\\TodoApp\\obj\\Release\\net9.0\\webcil\\publish\\System.Collections.Concurrent.wasm",
       "SourceId": "TodoApp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\phm975\\TodoApp\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\phm975\\TodoApp\\release\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System.Collections.Concurrent#[.{fingerprint}]!.wasm",
       "AssetKind": "Publish",
@@ -4472,7 +4472,7 @@
       "Identity": "C:\\Users\\phm975\\TodoApp\\obj\\Release\\net9.0\\webcil\\publish\\System.Collections.Immutable.wasm",
       "SourceId": "TodoApp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\phm975\\TodoApp\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\phm975\\TodoApp\\release\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System.Collections.Immutable#[.{fingerprint}]!.wasm",
       "AssetKind": "Publish",
@@ -4493,7 +4493,7 @@
       "Identity": "C:\\Users\\phm975\\TodoApp\\obj\\Release\\net9.0\\webcil\\publish\\System.Collections.wasm",
       "SourceId": "TodoApp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\phm975\\TodoApp\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\phm975\\TodoApp\\release\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System.Collections#[.{fingerprint}]!.wasm",
       "AssetKind": "Publish",
@@ -4514,7 +4514,7 @@
       "Identity": "C:\\Users\\phm975\\TodoApp\\obj\\Release\\net9.0\\webcil\\publish\\System.ComponentModel.wasm",
       "SourceId": "TodoApp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\phm975\\TodoApp\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\phm975\\TodoApp\\release\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System.ComponentModel#[.{fingerprint}]!.wasm",
       "AssetKind": "Publish",
@@ -4535,7 +4535,7 @@
       "Identity": "C:\\Users\\phm975\\TodoApp\\obj\\Release\\net9.0\\webcil\\publish\\System.Console.wasm",
       "SourceId": "TodoApp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\phm975\\TodoApp\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\phm975\\TodoApp\\release\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System.Console#[.{fingerprint}]!.wasm",
       "AssetKind": "Publish",
@@ -4556,7 +4556,7 @@
       "Identity": "C:\\Users\\phm975\\TodoApp\\obj\\Release\\net9.0\\webcil\\publish\\System.Diagnostics.DiagnosticSource.wasm",
       "SourceId": "TodoApp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\phm975\\TodoApp\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\phm975\\TodoApp\\release\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System.Diagnostics.DiagnosticSource#[.{fingerprint}]!.wasm",
       "AssetKind": "Publish",
@@ -4577,7 +4577,7 @@
       "Identity": "C:\\Users\\phm975\\TodoApp\\obj\\Release\\net9.0\\webcil\\publish\\System.IO.Pipelines.wasm",
       "SourceId": "TodoApp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\phm975\\TodoApp\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\phm975\\TodoApp\\release\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System.IO.Pipelines#[.{fingerprint}]!.wasm",
       "AssetKind": "Publish",
@@ -4598,7 +4598,7 @@
       "Identity": "C:\\Users\\phm975\\TodoApp\\obj\\Release\\net9.0\\webcil\\publish\\System.Linq.wasm",
       "SourceId": "TodoApp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\phm975\\TodoApp\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\phm975\\TodoApp\\release\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System.Linq#[.{fingerprint}]!.wasm",
       "AssetKind": "Publish",
@@ -4619,7 +4619,7 @@
       "Identity": "C:\\Users\\phm975\\TodoApp\\obj\\Release\\net9.0\\webcil\\publish\\System.Memory.wasm",
       "SourceId": "TodoApp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\phm975\\TodoApp\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\phm975\\TodoApp\\release\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System.Memory#[.{fingerprint}]!.wasm",
       "AssetKind": "Publish",
@@ -4640,7 +4640,7 @@
       "Identity": "C:\\Users\\phm975\\TodoApp\\obj\\Release\\net9.0\\webcil\\publish\\System.Net.Http.Json.wasm",
       "SourceId": "TodoApp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\phm975\\TodoApp\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\phm975\\TodoApp\\release\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System.Net.Http.Json#[.{fingerprint}]!.wasm",
       "AssetKind": "Publish",
@@ -4661,7 +4661,7 @@
       "Identity": "C:\\Users\\phm975\\TodoApp\\obj\\Release\\net9.0\\webcil\\publish\\System.Net.Http.wasm",
       "SourceId": "TodoApp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\phm975\\TodoApp\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\phm975\\TodoApp\\release\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System.Net.Http#[.{fingerprint}]!.wasm",
       "AssetKind": "Publish",
@@ -4682,7 +4682,7 @@
       "Identity": "C:\\Users\\phm975\\TodoApp\\obj\\Release\\net9.0\\webcil\\publish\\System.Net.Primitives.wasm",
       "SourceId": "TodoApp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\phm975\\TodoApp\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\phm975\\TodoApp\\release\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System.Net.Primitives#[.{fingerprint}]!.wasm",
       "AssetKind": "Publish",
@@ -4703,7 +4703,7 @@
       "Identity": "C:\\Users\\phm975\\TodoApp\\obj\\Release\\net9.0\\webcil\\publish\\System.Private.CoreLib.wasm",
       "SourceId": "TodoApp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\phm975\\TodoApp\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\phm975\\TodoApp\\release\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System.Private.CoreLib#[.{fingerprint}]!.wasm",
       "AssetKind": "Publish",
@@ -4724,7 +4724,7 @@
       "Identity": "C:\\Users\\phm975\\TodoApp\\obj\\Release\\net9.0\\webcil\\publish\\System.Private.Uri.wasm",
       "SourceId": "TodoApp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\phm975\\TodoApp\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\phm975\\TodoApp\\release\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System.Private.Uri#[.{fingerprint}]!.wasm",
       "AssetKind": "Publish",
@@ -4745,7 +4745,7 @@
       "Identity": "C:\\Users\\phm975\\TodoApp\\obj\\Release\\net9.0\\webcil\\publish\\System.Runtime.InteropServices.JavaScript.wasm",
       "SourceId": "TodoApp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\phm975\\TodoApp\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\phm975\\TodoApp\\release\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System.Runtime.InteropServices.JavaScript#[.{fingerprint}]!.wasm",
       "AssetKind": "Publish",
@@ -4766,7 +4766,7 @@
       "Identity": "C:\\Users\\phm975\\TodoApp\\obj\\Release\\net9.0\\webcil\\publish\\System.Runtime.wasm",
       "SourceId": "TodoApp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\phm975\\TodoApp\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\phm975\\TodoApp\\release\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System.Runtime#[.{fingerprint}]!.wasm",
       "AssetKind": "Publish",
@@ -4787,7 +4787,7 @@
       "Identity": "C:\\Users\\phm975\\TodoApp\\obj\\Release\\net9.0\\webcil\\publish\\System.Text.Encodings.Web.wasm",
       "SourceId": "TodoApp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\phm975\\TodoApp\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\phm975\\TodoApp\\release\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System.Text.Encodings.Web#[.{fingerprint}]!.wasm",
       "AssetKind": "Publish",
@@ -4808,7 +4808,7 @@
       "Identity": "C:\\Users\\phm975\\TodoApp\\obj\\Release\\net9.0\\webcil\\publish\\System.Text.Json.wasm",
       "SourceId": "TodoApp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\phm975\\TodoApp\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\phm975\\TodoApp\\release\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System.Text.Json#[.{fingerprint}]!.wasm",
       "AssetKind": "Publish",
@@ -4829,7 +4829,7 @@
       "Identity": "C:\\Users\\phm975\\TodoApp\\obj\\Release\\net9.0\\webcil\\publish\\System.Text.RegularExpressions.wasm",
       "SourceId": "TodoApp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\phm975\\TodoApp\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\phm975\\TodoApp\\release\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/System.Text.RegularExpressions#[.{fingerprint}]!.wasm",
       "AssetKind": "Publish",
@@ -4850,7 +4850,7 @@
       "Identity": "C:\\Users\\phm975\\TodoApp\\obj\\Release\\net9.0\\webcil\\publish\\TodoApp.wasm",
       "SourceId": "TodoApp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\phm975\\TodoApp\\publish\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\phm975\\TodoApp\\release\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "_framework/TodoApp#[.{fingerprint}]!.wasm",
       "AssetKind": "Publish",
@@ -4861,8 +4861,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "qqv96n7pys",
-      "Integrity": "DsWaQ6f3wuq0eQxLfeYvWLr7JswNvvaYwqWoMJO7csg=",
+      "Fingerprint": "qd51yo68jf",
+      "Integrity": "fvMigW/qcbYw1sd68TSzX1/3Fnx0pT/34+WbRFVuhSE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\phm975\\TodoApp\\obj\\Release\\net9.0\\webcil\\publish\\TodoApp.wasm"
@@ -4966,8 +4966,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "2owlkdk8cr",
-      "Integrity": "Xj/eYmce8ca0GOSA1CDHaVG282urNFoBxcUkq6kuY3k=",
+      "Fingerprint": "0bfrsgkae2",
+      "Integrity": "PCLNlpkaJ4RoWdhnAzWM1Ip7heVREnHOFmi2YRVcrmQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\index.html"
@@ -5938,11 +5938,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"KG4U+FM+7aRYSVuFF/7ojHm9f5DIwHilx1r55U3pIPc=\""
+          "Value": "\"f/xOY82V+/WQuGYFXW635rr8aCKYbNXOlET6o+0esiU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 12 Sep 2025 13:51:01 GMT"
+          "Value": "Fri, 12 Sep 2025 14:30:46 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5952,18 +5952,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-KG4U+FM+7aRYSVuFF/7ojHm9f5DIwHilx1r55U3pIPc="
+          "Value": "sha256-f/xOY82V+/WQuGYFXW635rr8aCKYbNXOlET6o+0esiU="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json",
-      "AssetFile": "C:\\Users\\phm975\\TodoApp\\obj\\Release\\net9.0\\compressed\\publish\\nzh5vc0d8m-k56899j8cr.br",
+      "AssetFile": "C:\\Users\\phm975\\TodoApp\\obj\\Release\\net9.0\\compressed\\publish\\nzh5vc0d8m-5702moylho.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "br",
-          "Quality": "0.000386100386"
+          "Quality": "0.000384763371"
         }
       ],
       "ResponseHeaders": [
@@ -5973,15 +5973,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2589"
+          "Value": "2598"
         },
         {
           "Name": "ETag",
-          "Value": "\"ldEEDmVEqQdqb3tKzvZi3zeUMQ6J61EmYJic24FVs0s=\""
+          "Value": "\"Gk9BRr3EHS+Airg0vzYplKuBv0l9IXh+0T30v/21HlQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 12 Sep 2025 13:51:01 GMT"
+          "Value": "Fri, 12 Sep 2025 14:30:46 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6001,24 +6001,24 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"KG4U+FM+7aRYSVuFF/7ojHm9f5DIwHilx1r55U3pIPc=\""
+          "Value": "W/\"f/xOY82V+/WQuGYFXW635rr8aCKYbNXOlET6o+0esiU=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-KG4U+FM+7aRYSVuFF/7ojHm9f5DIwHilx1r55U3pIPc="
+          "Value": "sha256-f/xOY82V+/WQuGYFXW635rr8aCKYbNXOlET6o+0esiU="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json",
-      "AssetFile": "C:\\Users\\phm975\\TodoApp\\obj\\Release\\net9.0\\compressed\\publish\\nzh5vc0d8m-k56899j8cr.gz",
+      "AssetFile": "C:\\Users\\phm975\\TodoApp\\obj\\Release\\net9.0\\compressed\\publish\\nzh5vc0d8m-5702moylho.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000357142857"
+          "Quality": "0.000357398142"
         }
       ],
       "ResponseHeaders": [
@@ -6028,15 +6028,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2799"
+          "Value": "2797"
         },
         {
           "Name": "ETag",
-          "Value": "\"VEjii81GxxICEMGpzOFcsD0nCm/zvuwcCRv0myevBq0=\""
+          "Value": "\"IPTRJQAIgdprLB8K6/6xCY2zVfM46Pko1fitk03Tc2Y=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 12 Sep 2025 13:51:01 GMT"
+          "Value": "Fri, 12 Sep 2025 14:30:46 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6056,19 +6056,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"KG4U+FM+7aRYSVuFF/7ojHm9f5DIwHilx1r55U3pIPc=\""
+          "Value": "W/\"f/xOY82V+/WQuGYFXW635rr8aCKYbNXOlET6o+0esiU=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-KG4U+FM+7aRYSVuFF/7ojHm9f5DIwHilx1r55U3pIPc="
+          "Value": "sha256-f/xOY82V+/WQuGYFXW635rr8aCKYbNXOlET6o+0esiU="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json.br",
-      "AssetFile": "C:\\Users\\phm975\\TodoApp\\obj\\Release\\net9.0\\compressed\\publish\\nzh5vc0d8m-k56899j8cr.br",
+      "AssetFile": "C:\\Users\\phm975\\TodoApp\\obj\\Release\\net9.0\\compressed\\publish\\nzh5vc0d8m-5702moylho.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6077,7 +6077,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2589"
+          "Value": "2598"
         },
         {
           "Name": "Content-Type",
@@ -6085,11 +6085,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ldEEDmVEqQdqb3tKzvZi3zeUMQ6J61EmYJic24FVs0s=\""
+          "Value": "\"Gk9BRr3EHS+Airg0vzYplKuBv0l9IXh+0T30v/21HlQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 12 Sep 2025 13:51:01 GMT"
+          "Value": "Fri, 12 Sep 2025 14:30:46 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6107,13 +6107,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-ldEEDmVEqQdqb3tKzvZi3zeUMQ6J61EmYJic24FVs0s="
+          "Value": "sha256-Gk9BRr3EHS+Airg0vzYplKuBv0l9IXh+0T30v/21HlQ="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json.gz",
-      "AssetFile": "C:\\Users\\phm975\\TodoApp\\obj\\Release\\net9.0\\compressed\\publish\\nzh5vc0d8m-k56899j8cr.gz",
+      "AssetFile": "C:\\Users\\phm975\\TodoApp\\obj\\Release\\net9.0\\compressed\\publish\\nzh5vc0d8m-5702moylho.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6122,7 +6122,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2799"
+          "Value": "2797"
         },
         {
           "Name": "Content-Type",
@@ -6130,11 +6130,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"VEjii81GxxICEMGpzOFcsD0nCm/zvuwcCRv0myevBq0=\""
+          "Value": "\"IPTRJQAIgdprLB8K6/6xCY2zVfM46Pko1fitk03Tc2Y=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 12 Sep 2025 13:51:01 GMT"
+          "Value": "Fri, 12 Sep 2025 14:30:46 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6152,7 +6152,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-VEjii81GxxICEMGpzOFcsD0nCm/zvuwcCRv0myevBq0="
+          "Value": "sha256-IPTRJQAIgdprLB8K6/6xCY2zVfM46Pko1fitk03Tc2Y="
         }
       ]
     },
@@ -6218,7 +6218,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 12 Sep 2025 13:50:52 GMT"
+          "Value": "Tue, 29 Oct 2024 13:25:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6371,7 +6371,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 12 Sep 2025 13:50:52 GMT"
+          "Value": "Tue, 29 Oct 2024 13:25:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6455,7 +6455,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 12 Sep 2025 13:50:53 GMT"
+          "Value": "Tue, 29 Oct 2024 02:44:42 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6608,7 +6608,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 12 Sep 2025 13:50:53 GMT"
+          "Value": "Tue, 29 Oct 2024 02:44:42 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7390,7 +7390,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 12 Sep 2025 13:50:53 GMT"
+          "Value": "Tue, 29 Oct 2024 02:44:42 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7567,7 +7567,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 12 Sep 2025 13:50:53 GMT"
+          "Value": "Tue, 29 Oct 2024 02:44:42 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -25616,13 +25616,13 @@
       ]
     },
     {
-      "Route": "_framework/TodoApp.qqv96n7pys.wasm",
-      "AssetFile": "C:\\Users\\phm975\\TodoApp\\obj\\Release\\net9.0\\compressed\\publish\\xdoc17q7fi-qqv96n7pys.br",
+      "Route": "_framework/TodoApp.qd51yo68jf.wasm",
+      "AssetFile": "C:\\Users\\phm975\\TodoApp\\obj\\Release\\net9.0\\compressed\\publish\\xdoc17q7fi-qd51yo68jf.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "br",
-          "Quality": "0.000086632591"
+          "Quality": "0.000086767896"
         }
       ],
       "ResponseHeaders": [
@@ -25632,15 +25632,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "11542"
+          "Value": "11524"
         },
         {
           "Name": "ETag",
-          "Value": "\"gAcP0cJNPzvB6NhldktrcgJYgwDado4HyDNHL2XRQQY=\""
+          "Value": "\"4wrIM9azHogmMRDHqA4uD48X1lIJa2uNkaZrQELKyEg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 12 Sep 2025 13:51:01 GMT"
+          "Value": "Fri, 12 Sep 2025 14:30:46 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -25660,13 +25660,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"DsWaQ6f3wuq0eQxLfeYvWLr7JswNvvaYwqWoMJO7csg=\""
+          "Value": "W/\"fvMigW/qcbYw1sd68TSzX1/3Fnx0pT/34+WbRFVuhSE=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "qqv96n7pys"
+          "Value": "qd51yo68jf"
         },
         {
           "Name": "label",
@@ -25674,18 +25674,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-DsWaQ6f3wuq0eQxLfeYvWLr7JswNvvaYwqWoMJO7csg="
+          "Value": "sha256-fvMigW/qcbYw1sd68TSzX1/3Fnx0pT/34+WbRFVuhSE="
         }
       ]
     },
     {
-      "Route": "_framework/TodoApp.qqv96n7pys.wasm",
-      "AssetFile": "C:\\Users\\phm975\\TodoApp\\obj\\Release\\net9.0\\compressed\\publish\\xdoc17q7fi-qqv96n7pys.gz",
+      "Route": "_framework/TodoApp.qd51yo68jf.wasm",
+      "AssetFile": "C:\\Users\\phm975\\TodoApp\\obj\\Release\\net9.0\\compressed\\publish\\xdoc17q7fi-qd51yo68jf.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000073518600"
+          "Quality": "0.000073507792"
         }
       ],
       "ResponseHeaders": [
@@ -25695,15 +25695,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "13601"
+          "Value": "13603"
         },
         {
           "Name": "ETag",
-          "Value": "\"r7SgcigGRP0CNLU/GSSdA65N2HT5rG95i14lfBFWzy4=\""
+          "Value": "\"wZFm9VzCB8H8D/qn3JXPEPCr70hg6QVSrehgEvzciYY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 12 Sep 2025 13:51:01 GMT"
+          "Value": "Fri, 12 Sep 2025 14:30:46 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -25723,13 +25723,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"DsWaQ6f3wuq0eQxLfeYvWLr7JswNvvaYwqWoMJO7csg=\""
+          "Value": "W/\"fvMigW/qcbYw1sd68TSzX1/3Fnx0pT/34+WbRFVuhSE=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "qqv96n7pys"
+          "Value": "qd51yo68jf"
         },
         {
           "Name": "label",
@@ -25737,12 +25737,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-DsWaQ6f3wuq0eQxLfeYvWLr7JswNvvaYwqWoMJO7csg="
+          "Value": "sha256-fvMigW/qcbYw1sd68TSzX1/3Fnx0pT/34+WbRFVuhSE="
         }
       ]
     },
     {
-      "Route": "_framework/TodoApp.qqv96n7pys.wasm",
+      "Route": "_framework/TodoApp.qd51yo68jf.wasm",
       "AssetFile": "C:\\Users\\phm975\\TodoApp\\obj\\Release\\net9.0\\webcil\\publish\\TodoApp.wasm",
       "Selectors": [],
       "ResponseHeaders": [
@@ -25760,11 +25760,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"DsWaQ6f3wuq0eQxLfeYvWLr7JswNvvaYwqWoMJO7csg=\""
+          "Value": "\"fvMigW/qcbYw1sd68TSzX1/3Fnx0pT/34+WbRFVuhSE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 12 Sep 2025 13:51:01 GMT"
+          "Value": "Fri, 12 Sep 2025 14:30:46 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -25774,7 +25774,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "qqv96n7pys"
+          "Value": "qd51yo68jf"
         },
         {
           "Name": "label",
@@ -25782,13 +25782,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-DsWaQ6f3wuq0eQxLfeYvWLr7JswNvvaYwqWoMJO7csg="
+          "Value": "sha256-fvMigW/qcbYw1sd68TSzX1/3Fnx0pT/34+WbRFVuhSE="
         }
       ]
     },
     {
-      "Route": "_framework/TodoApp.qqv96n7pys.wasm.br",
-      "AssetFile": "C:\\Users\\phm975\\TodoApp\\obj\\Release\\net9.0\\compressed\\publish\\xdoc17q7fi-qqv96n7pys.br",
+      "Route": "_framework/TodoApp.qd51yo68jf.wasm.br",
+      "AssetFile": "C:\\Users\\phm975\\TodoApp\\obj\\Release\\net9.0\\compressed\\publish\\xdoc17q7fi-qd51yo68jf.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -25797,7 +25797,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "11542"
+          "Value": "11524"
         },
         {
           "Name": "Content-Type",
@@ -25805,11 +25805,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"gAcP0cJNPzvB6NhldktrcgJYgwDado4HyDNHL2XRQQY=\""
+          "Value": "\"4wrIM9azHogmMRDHqA4uD48X1lIJa2uNkaZrQELKyEg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 12 Sep 2025 13:51:01 GMT"
+          "Value": "Fri, 12 Sep 2025 14:30:46 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -25827,7 +25827,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "qqv96n7pys"
+          "Value": "qd51yo68jf"
         },
         {
           "Name": "label",
@@ -25835,13 +25835,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-gAcP0cJNPzvB6NhldktrcgJYgwDado4HyDNHL2XRQQY="
+          "Value": "sha256-4wrIM9azHogmMRDHqA4uD48X1lIJa2uNkaZrQELKyEg="
         }
       ]
     },
     {
-      "Route": "_framework/TodoApp.qqv96n7pys.wasm.gz",
-      "AssetFile": "C:\\Users\\phm975\\TodoApp\\obj\\Release\\net9.0\\compressed\\publish\\xdoc17q7fi-qqv96n7pys.gz",
+      "Route": "_framework/TodoApp.qd51yo68jf.wasm.gz",
+      "AssetFile": "C:\\Users\\phm975\\TodoApp\\obj\\Release\\net9.0\\compressed\\publish\\xdoc17q7fi-qd51yo68jf.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -25850,7 +25850,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "13601"
+          "Value": "13603"
         },
         {
           "Name": "Content-Type",
@@ -25858,11 +25858,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"r7SgcigGRP0CNLU/GSSdA65N2HT5rG95i14lfBFWzy4=\""
+          "Value": "\"wZFm9VzCB8H8D/qn3JXPEPCr70hg6QVSrehgEvzciYY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 12 Sep 2025 13:51:01 GMT"
+          "Value": "Fri, 12 Sep 2025 14:30:46 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -25880,7 +25880,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "qqv96n7pys"
+          "Value": "qd51yo68jf"
         },
         {
           "Name": "label",
@@ -25888,18 +25888,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-r7SgcigGRP0CNLU/GSSdA65N2HT5rG95i14lfBFWzy4="
+          "Value": "sha256-wZFm9VzCB8H8D/qn3JXPEPCr70hg6QVSrehgEvzciYY="
         }
       ]
     },
     {
       "Route": "_framework/TodoApp.wasm",
-      "AssetFile": "C:\\Users\\phm975\\TodoApp\\obj\\Release\\net9.0\\compressed\\publish\\xdoc17q7fi-qqv96n7pys.br",
+      "AssetFile": "C:\\Users\\phm975\\TodoApp\\obj\\Release\\net9.0\\compressed\\publish\\xdoc17q7fi-qd51yo68jf.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "br",
-          "Quality": "0.000086632591"
+          "Quality": "0.000086767896"
         }
       ],
       "ResponseHeaders": [
@@ -25909,15 +25909,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "11542"
+          "Value": "11524"
         },
         {
           "Name": "ETag",
-          "Value": "\"gAcP0cJNPzvB6NhldktrcgJYgwDado4HyDNHL2XRQQY=\""
+          "Value": "\"4wrIM9azHogmMRDHqA4uD48X1lIJa2uNkaZrQELKyEg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 12 Sep 2025 13:51:01 GMT"
+          "Value": "Fri, 12 Sep 2025 14:30:46 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -25937,24 +25937,24 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"DsWaQ6f3wuq0eQxLfeYvWLr7JswNvvaYwqWoMJO7csg=\""
+          "Value": "W/\"fvMigW/qcbYw1sd68TSzX1/3Fnx0pT/34+WbRFVuhSE=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-DsWaQ6f3wuq0eQxLfeYvWLr7JswNvvaYwqWoMJO7csg="
+          "Value": "sha256-fvMigW/qcbYw1sd68TSzX1/3Fnx0pT/34+WbRFVuhSE="
         }
       ]
     },
     {
       "Route": "_framework/TodoApp.wasm",
-      "AssetFile": "C:\\Users\\phm975\\TodoApp\\obj\\Release\\net9.0\\compressed\\publish\\xdoc17q7fi-qqv96n7pys.gz",
+      "AssetFile": "C:\\Users\\phm975\\TodoApp\\obj\\Release\\net9.0\\compressed\\publish\\xdoc17q7fi-qd51yo68jf.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000073518600"
+          "Quality": "0.000073507792"
         }
       ],
       "ResponseHeaders": [
@@ -25964,15 +25964,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "13601"
+          "Value": "13603"
         },
         {
           "Name": "ETag",
-          "Value": "\"r7SgcigGRP0CNLU/GSSdA65N2HT5rG95i14lfBFWzy4=\""
+          "Value": "\"wZFm9VzCB8H8D/qn3JXPEPCr70hg6QVSrehgEvzciYY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 12 Sep 2025 13:51:01 GMT"
+          "Value": "Fri, 12 Sep 2025 14:30:46 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -25992,13 +25992,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"DsWaQ6f3wuq0eQxLfeYvWLr7JswNvvaYwqWoMJO7csg=\""
+          "Value": "W/\"fvMigW/qcbYw1sd68TSzX1/3Fnx0pT/34+WbRFVuhSE=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-DsWaQ6f3wuq0eQxLfeYvWLr7JswNvvaYwqWoMJO7csg="
+          "Value": "sha256-fvMigW/qcbYw1sd68TSzX1/3Fnx0pT/34+WbRFVuhSE="
         }
       ]
     },
@@ -26021,11 +26021,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"DsWaQ6f3wuq0eQxLfeYvWLr7JswNvvaYwqWoMJO7csg=\""
+          "Value": "\"fvMigW/qcbYw1sd68TSzX1/3Fnx0pT/34+WbRFVuhSE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 12 Sep 2025 13:51:01 GMT"
+          "Value": "Fri, 12 Sep 2025 14:30:46 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -26035,13 +26035,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-DsWaQ6f3wuq0eQxLfeYvWLr7JswNvvaYwqWoMJO7csg="
+          "Value": "sha256-fvMigW/qcbYw1sd68TSzX1/3Fnx0pT/34+WbRFVuhSE="
         }
       ]
     },
     {
       "Route": "_framework/TodoApp.wasm.br",
-      "AssetFile": "C:\\Users\\phm975\\TodoApp\\obj\\Release\\net9.0\\compressed\\publish\\xdoc17q7fi-qqv96n7pys.br",
+      "AssetFile": "C:\\Users\\phm975\\TodoApp\\obj\\Release\\net9.0\\compressed\\publish\\xdoc17q7fi-qd51yo68jf.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -26050,7 +26050,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "11542"
+          "Value": "11524"
         },
         {
           "Name": "Content-Type",
@@ -26058,11 +26058,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"gAcP0cJNPzvB6NhldktrcgJYgwDado4HyDNHL2XRQQY=\""
+          "Value": "\"4wrIM9azHogmMRDHqA4uD48X1lIJa2uNkaZrQELKyEg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 12 Sep 2025 13:51:01 GMT"
+          "Value": "Fri, 12 Sep 2025 14:30:46 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -26080,13 +26080,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-gAcP0cJNPzvB6NhldktrcgJYgwDado4HyDNHL2XRQQY="
+          "Value": "sha256-4wrIM9azHogmMRDHqA4uD48X1lIJa2uNkaZrQELKyEg="
         }
       ]
     },
     {
       "Route": "_framework/TodoApp.wasm.gz",
-      "AssetFile": "C:\\Users\\phm975\\TodoApp\\obj\\Release\\net9.0\\compressed\\publish\\xdoc17q7fi-qqv96n7pys.gz",
+      "AssetFile": "C:\\Users\\phm975\\TodoApp\\obj\\Release\\net9.0\\compressed\\publish\\xdoc17q7fi-qd51yo68jf.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -26095,7 +26095,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "13601"
+          "Value": "13603"
         },
         {
           "Name": "Content-Type",
@@ -26103,11 +26103,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"r7SgcigGRP0CNLU/GSSdA65N2HT5rG95i14lfBFWzy4=\""
+          "Value": "\"wZFm9VzCB8H8D/qn3JXPEPCr70hg6QVSrehgEvzciYY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 12 Sep 2025 13:51:01 GMT"
+          "Value": "Fri, 12 Sep 2025 14:30:46 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -26125,7 +26125,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-r7SgcigGRP0CNLU/GSSdA65N2HT5rG95i14lfBFWzy4="
+          "Value": "sha256-wZFm9VzCB8H8D/qn3JXPEPCr70hg6QVSrehgEvzciYY="
         }
       ]
     },
@@ -27322,13 +27322,13 @@
       ]
     },
     {
-      "Route": "index.2owlkdk8cr.html",
-      "AssetFile": "C:\\Users\\phm975\\TodoApp\\obj\\Release\\net9.0\\compressed\\publish\\aayg8y5vz5-2owlkdk8cr.br",
+      "Route": "index.0bfrsgkae2.html",
+      "AssetFile": "C:\\Users\\phm975\\TodoApp\\obj\\Release\\net9.0\\compressed\\publish\\aayg8y5vz5-0bfrsgkae2.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "br",
-          "Quality": "0.003095975232"
+          "Quality": "0.003076923077"
         }
       ],
       "ResponseHeaders": [
@@ -27338,15 +27338,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "322"
+          "Value": "324"
         },
         {
           "Name": "ETag",
-          "Value": "\"qM1w43XoHNCIhRalj1+er+bTx27pf94t1PdWHcCQ1+k=\""
+          "Value": "\"caEaxeoh14aGN5J8dXE5rHe3jp3zqfP3y1WkZo8cR9E=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 11 Sep 2025 21:36:21 GMT"
+          "Value": "Fri, 12 Sep 2025 14:07:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -27366,13 +27366,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"Xj/eYmce8ca0GOSA1CDHaVG282urNFoBxcUkq6kuY3k=\""
+          "Value": "W/\"PCLNlpkaJ4RoWdhnAzWM1Ip7heVREnHOFmi2YRVcrmQ=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "2owlkdk8cr"
+          "Value": "0bfrsgkae2"
         },
         {
           "Name": "label",
@@ -27380,18 +27380,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Xj/eYmce8ca0GOSA1CDHaVG282urNFoBxcUkq6kuY3k="
+          "Value": "sha256-PCLNlpkaJ4RoWdhnAzWM1Ip7heVREnHOFmi2YRVcrmQ="
         }
       ]
     },
     {
-      "Route": "index.2owlkdk8cr.html",
-      "AssetFile": "C:\\Users\\phm975\\TodoApp\\obj\\Release\\net9.0\\compressed\\aayg8y5vz5-2owlkdk8cr.gz",
+      "Route": "index.0bfrsgkae2.html",
+      "AssetFile": "C:\\Users\\phm975\\TodoApp\\obj\\Release\\net9.0\\compressed\\aayg8y5vz5-0bfrsgkae2.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.002136752137"
+          "Quality": "0.002123142251"
         }
       ],
       "ResponseHeaders": [
@@ -27401,15 +27401,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "467"
+          "Value": "470"
         },
         {
           "Name": "ETag",
-          "Value": "\"8GBKAkmk4xkaPrHQ/HneLGXwXh9g+nQcvP6yY2khvGg=\""
+          "Value": "\"C1RB3YV9n3Lhx/yaoYrBdQXNKgH2Y+0ivcef/avmEqQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 11 Sep 2025 21:36:21 GMT"
+          "Value": "Fri, 12 Sep 2025 14:07:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -27429,13 +27429,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"Xj/eYmce8ca0GOSA1CDHaVG282urNFoBxcUkq6kuY3k=\""
+          "Value": "W/\"PCLNlpkaJ4RoWdhnAzWM1Ip7heVREnHOFmi2YRVcrmQ=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "2owlkdk8cr"
+          "Value": "0bfrsgkae2"
         },
         {
           "Name": "label",
@@ -27443,12 +27443,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Xj/eYmce8ca0GOSA1CDHaVG282urNFoBxcUkq6kuY3k="
+          "Value": "sha256-PCLNlpkaJ4RoWdhnAzWM1Ip7heVREnHOFmi2YRVcrmQ="
         }
       ]
     },
     {
-      "Route": "index.2owlkdk8cr.html",
+      "Route": "index.0bfrsgkae2.html",
       "AssetFile": "C:\\Users\\phm975\\TodoApp\\wwwroot\\index.html",
       "Selectors": [],
       "ResponseHeaders": [
@@ -27458,7 +27458,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "969"
+          "Value": "977"
         },
         {
           "Name": "Content-Type",
@@ -27466,11 +27466,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Xj/eYmce8ca0GOSA1CDHaVG282urNFoBxcUkq6kuY3k=\""
+          "Value": "\"PCLNlpkaJ4RoWdhnAzWM1Ip7heVREnHOFmi2YRVcrmQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 11 Sep 2025 21:36:21 GMT"
+          "Value": "Fri, 12 Sep 2025 14:07:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -27480,7 +27480,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "2owlkdk8cr"
+          "Value": "0bfrsgkae2"
         },
         {
           "Name": "label",
@@ -27488,13 +27488,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Xj/eYmce8ca0GOSA1CDHaVG282urNFoBxcUkq6kuY3k="
+          "Value": "sha256-PCLNlpkaJ4RoWdhnAzWM1Ip7heVREnHOFmi2YRVcrmQ="
         }
       ]
     },
     {
-      "Route": "index.2owlkdk8cr.html.br",
-      "AssetFile": "C:\\Users\\phm975\\TodoApp\\obj\\Release\\net9.0\\compressed\\publish\\aayg8y5vz5-2owlkdk8cr.br",
+      "Route": "index.0bfrsgkae2.html.br",
+      "AssetFile": "C:\\Users\\phm975\\TodoApp\\obj\\Release\\net9.0\\compressed\\publish\\aayg8y5vz5-0bfrsgkae2.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -27503,7 +27503,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "322"
+          "Value": "324"
         },
         {
           "Name": "Content-Type",
@@ -27511,11 +27511,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"qM1w43XoHNCIhRalj1+er+bTx27pf94t1PdWHcCQ1+k=\""
+          "Value": "\"caEaxeoh14aGN5J8dXE5rHe3jp3zqfP3y1WkZo8cR9E=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 11 Sep 2025 21:36:21 GMT"
+          "Value": "Fri, 12 Sep 2025 14:07:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -27533,7 +27533,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "2owlkdk8cr"
+          "Value": "0bfrsgkae2"
         },
         {
           "Name": "label",
@@ -27541,13 +27541,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-qM1w43XoHNCIhRalj1+er+bTx27pf94t1PdWHcCQ1+k="
+          "Value": "sha256-caEaxeoh14aGN5J8dXE5rHe3jp3zqfP3y1WkZo8cR9E="
         }
       ]
     },
     {
-      "Route": "index.2owlkdk8cr.html.gz",
-      "AssetFile": "C:\\Users\\phm975\\TodoApp\\obj\\Release\\net9.0\\compressed\\aayg8y5vz5-2owlkdk8cr.gz",
+      "Route": "index.0bfrsgkae2.html.gz",
+      "AssetFile": "C:\\Users\\phm975\\TodoApp\\obj\\Release\\net9.0\\compressed\\aayg8y5vz5-0bfrsgkae2.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -27556,7 +27556,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "467"
+          "Value": "470"
         },
         {
           "Name": "Content-Type",
@@ -27564,11 +27564,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"8GBKAkmk4xkaPrHQ/HneLGXwXh9g+nQcvP6yY2khvGg=\""
+          "Value": "\"C1RB3YV9n3Lhx/yaoYrBdQXNKgH2Y+0ivcef/avmEqQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 11 Sep 2025 21:36:21 GMT"
+          "Value": "Fri, 12 Sep 2025 14:07:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -27586,7 +27586,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "2owlkdk8cr"
+          "Value": "0bfrsgkae2"
         },
         {
           "Name": "label",
@@ -27594,18 +27594,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-8GBKAkmk4xkaPrHQ/HneLGXwXh9g+nQcvP6yY2khvGg="
+          "Value": "sha256-C1RB3YV9n3Lhx/yaoYrBdQXNKgH2Y+0ivcef/avmEqQ="
         }
       ]
     },
     {
       "Route": "index.html",
-      "AssetFile": "C:\\Users\\phm975\\TodoApp\\obj\\Release\\net9.0\\compressed\\publish\\aayg8y5vz5-2owlkdk8cr.br",
+      "AssetFile": "C:\\Users\\phm975\\TodoApp\\obj\\Release\\net9.0\\compressed\\publish\\aayg8y5vz5-0bfrsgkae2.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "br",
-          "Quality": "0.003095975232"
+          "Quality": "0.003076923077"
         }
       ],
       "ResponseHeaders": [
@@ -27615,15 +27615,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "322"
+          "Value": "324"
         },
         {
           "Name": "ETag",
-          "Value": "\"qM1w43XoHNCIhRalj1+er+bTx27pf94t1PdWHcCQ1+k=\""
+          "Value": "\"caEaxeoh14aGN5J8dXE5rHe3jp3zqfP3y1WkZo8cR9E=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 11 Sep 2025 21:36:21 GMT"
+          "Value": "Fri, 12 Sep 2025 14:07:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -27643,24 +27643,24 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"Xj/eYmce8ca0GOSA1CDHaVG282urNFoBxcUkq6kuY3k=\""
+          "Value": "W/\"PCLNlpkaJ4RoWdhnAzWM1Ip7heVREnHOFmi2YRVcrmQ=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Xj/eYmce8ca0GOSA1CDHaVG282urNFoBxcUkq6kuY3k="
+          "Value": "sha256-PCLNlpkaJ4RoWdhnAzWM1Ip7heVREnHOFmi2YRVcrmQ="
         }
       ]
     },
     {
       "Route": "index.html",
-      "AssetFile": "C:\\Users\\phm975\\TodoApp\\obj\\Release\\net9.0\\compressed\\aayg8y5vz5-2owlkdk8cr.gz",
+      "AssetFile": "C:\\Users\\phm975\\TodoApp\\obj\\Release\\net9.0\\compressed\\aayg8y5vz5-0bfrsgkae2.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.002136752137"
+          "Quality": "0.002123142251"
         }
       ],
       "ResponseHeaders": [
@@ -27670,15 +27670,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "467"
+          "Value": "470"
         },
         {
           "Name": "ETag",
-          "Value": "\"8GBKAkmk4xkaPrHQ/HneLGXwXh9g+nQcvP6yY2khvGg=\""
+          "Value": "\"C1RB3YV9n3Lhx/yaoYrBdQXNKgH2Y+0ivcef/avmEqQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 11 Sep 2025 21:36:21 GMT"
+          "Value": "Fri, 12 Sep 2025 14:07:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -27698,13 +27698,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"Xj/eYmce8ca0GOSA1CDHaVG282urNFoBxcUkq6kuY3k=\""
+          "Value": "W/\"PCLNlpkaJ4RoWdhnAzWM1Ip7heVREnHOFmi2YRVcrmQ=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Xj/eYmce8ca0GOSA1CDHaVG282urNFoBxcUkq6kuY3k="
+          "Value": "sha256-PCLNlpkaJ4RoWdhnAzWM1Ip7heVREnHOFmi2YRVcrmQ="
         }
       ]
     },
@@ -27719,7 +27719,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "969"
+          "Value": "977"
         },
         {
           "Name": "Content-Type",
@@ -27727,11 +27727,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Xj/eYmce8ca0GOSA1CDHaVG282urNFoBxcUkq6kuY3k=\""
+          "Value": "\"PCLNlpkaJ4RoWdhnAzWM1Ip7heVREnHOFmi2YRVcrmQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 11 Sep 2025 21:36:21 GMT"
+          "Value": "Fri, 12 Sep 2025 14:07:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -27741,13 +27741,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Xj/eYmce8ca0GOSA1CDHaVG282urNFoBxcUkq6kuY3k="
+          "Value": "sha256-PCLNlpkaJ4RoWdhnAzWM1Ip7heVREnHOFmi2YRVcrmQ="
         }
       ]
     },
     {
       "Route": "index.html.br",
-      "AssetFile": "C:\\Users\\phm975\\TodoApp\\obj\\Release\\net9.0\\compressed\\publish\\aayg8y5vz5-2owlkdk8cr.br",
+      "AssetFile": "C:\\Users\\phm975\\TodoApp\\obj\\Release\\net9.0\\compressed\\publish\\aayg8y5vz5-0bfrsgkae2.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -27756,7 +27756,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "322"
+          "Value": "324"
         },
         {
           "Name": "Content-Type",
@@ -27764,11 +27764,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"qM1w43XoHNCIhRalj1+er+bTx27pf94t1PdWHcCQ1+k=\""
+          "Value": "\"caEaxeoh14aGN5J8dXE5rHe3jp3zqfP3y1WkZo8cR9E=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 11 Sep 2025 21:36:21 GMT"
+          "Value": "Fri, 12 Sep 2025 14:07:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -27786,13 +27786,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-qM1w43XoHNCIhRalj1+er+bTx27pf94t1PdWHcCQ1+k="
+          "Value": "sha256-caEaxeoh14aGN5J8dXE5rHe3jp3zqfP3y1WkZo8cR9E="
         }
       ]
     },
     {
       "Route": "index.html.gz",
-      "AssetFile": "C:\\Users\\phm975\\TodoApp\\obj\\Release\\net9.0\\compressed\\aayg8y5vz5-2owlkdk8cr.gz",
+      "AssetFile": "C:\\Users\\phm975\\TodoApp\\obj\\Release\\net9.0\\compressed\\aayg8y5vz5-0bfrsgkae2.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -27801,7 +27801,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "467"
+          "Value": "470"
         },
         {
           "Name": "Content-Type",
@@ -27809,11 +27809,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"8GBKAkmk4xkaPrHQ/HneLGXwXh9g+nQcvP6yY2khvGg=\""
+          "Value": "\"C1RB3YV9n3Lhx/yaoYrBdQXNKgH2Y+0ivcef/avmEqQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 11 Sep 2025 21:36:21 GMT"
+          "Value": "Fri, 12 Sep 2025 14:07:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -27831,7 +27831,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-8GBKAkmk4xkaPrHQ/HneLGXwXh9g+nQcvP6yY2khvGg="
+          "Value": "sha256-C1RB3YV9n3Lhx/yaoYrBdQXNKgH2Y+0ivcef/avmEqQ="
         }
       ]
     },
