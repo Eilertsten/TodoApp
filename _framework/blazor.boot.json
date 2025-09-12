@@ -1,10 +1,10 @@
 {
   "mainAssemblyName": "TodoApp",
   "resources": {
-    "hash": "sha256-AN3DY/yWSQG4DJ459jr+96wmv8YsMZHoEUsosupU7G0=",
+    "hash": "sha256-ZF0sS9vy+HImjmJeqz0rc0snKFEG8lgr2oTqB8es1dI=",
     "fingerprinting": {
-      "Microsoft.AspNetCore.Components.tu0nt1uvy5.wasm": "Microsoft.AspNetCore.Components.wasm",
-      "Microsoft.AspNetCore.Components.Web.7apenvi18o.wasm": "Microsoft.AspNetCore.Components.Web.wasm",
+      "Microsoft.AspNetCore.Components.e7lg9dz4zh.wasm": "Microsoft.AspNetCore.Components.wasm",
+      "Microsoft.AspNetCore.Components.Web.7yvofxhswa.wasm": "Microsoft.AspNetCore.Components.Web.wasm",
       "Microsoft.AspNetCore.Components.WebAssembly.pq7fdyw1tb.wasm": "Microsoft.AspNetCore.Components.WebAssembly.wasm",
       "Microsoft.Extensions.Configuration.ell6o7ap7i.wasm": "Microsoft.Extensions.Configuration.wasm",
       "Microsoft.Extensions.Configuration.Abstractions.f9jq6u05xu.wasm": "Microsoft.Extensions.Configuration.Abstractions.wasm",
@@ -29,14 +29,14 @@
       "System.Net.Http.Json.nkfbslrzoe.wasm": "System.Net.Http.Json.wasm",
       "System.Net.Http.v8jtdp071o.wasm": "System.Net.Http.wasm",
       "System.Net.Primitives.yjcmep7m7h.wasm": "System.Net.Primitives.wasm",
-      "System.Private.Uri.oo7tmb2c4p.wasm": "System.Private.Uri.wasm",
+      "System.Private.Uri.9uvexngjch.wasm": "System.Private.Uri.wasm",
       "System.Runtime.InteropServices.JavaScript.f7txb1es0b.wasm": "System.Runtime.InteropServices.JavaScript.wasm",
       "System.Runtime.2o9icaurk8.wasm": "System.Runtime.wasm",
       "System.Text.Encodings.Web.08ymq1fvcr.wasm": "System.Text.Encodings.Web.wasm",
       "System.Text.Json.wvvw2wq28w.wasm": "System.Text.Json.wasm",
       "System.Text.RegularExpressions.3ddyst6dmo.wasm": "System.Text.RegularExpressions.wasm",
       "System.Private.CoreLib.8brn0v5gri.wasm": "System.Private.CoreLib.wasm",
-      "TodoApp.vu6wsfc1yd.wasm": "TodoApp.wasm",
+      "TodoApp.zvkgxab6an.wasm": "TodoApp.wasm",
       "dotnet.native.vmus01doem.js": "dotnet.native.js",
       "dotnet.native.t3a0xl57pt.wasm": "dotnet.native.wasm",
       "dotnet.js": "dotnet.js",
@@ -64,8 +64,8 @@
       "System.Private.CoreLib.8brn0v5gri.wasm": "sha256-BBaddkP7JzA3Gp2M9W4dj3Tzj/DKt3XYeePFjsX8UBU="
     },
     "assembly": {
-      "Microsoft.AspNetCore.Components.tu0nt1uvy5.wasm": "sha256-6xpqV3gzx6+8Vs22Wln7+ZyPj+IzrePdUQPYuI5wUl0=",
-      "Microsoft.AspNetCore.Components.Web.7apenvi18o.wasm": "sha256-fyqnB2DYAO80AStwVkG2g+mFplGXI54QNWpUbk5VoiE=",
+      "Microsoft.AspNetCore.Components.e7lg9dz4zh.wasm": "sha256-pgOUbVYYEE6ztxsgRA+8ezhogbOw7dMyVl2PVeI6LwI=",
+      "Microsoft.AspNetCore.Components.Web.7yvofxhswa.wasm": "sha256-QaU3MCJZXUPpTg3z+sdNujuTSOqUW4O70/Rc6aQj1xU=",
       "Microsoft.AspNetCore.Components.WebAssembly.pq7fdyw1tb.wasm": "sha256-D/ZUWrvE7bqOtBfOWuLj+4RNqOvNZ0SnjD6QrBwUcb8=",
       "Microsoft.Extensions.Configuration.ell6o7ap7i.wasm": "sha256-0iZA+rfvr3lLmK5V18g0LZCU41c3mbTL9jNYRoavdB0=",
       "Microsoft.Extensions.Configuration.Abstractions.f9jq6u05xu.wasm": "sha256-AyL87FvJMf14Dcn8HeQ3n2veg/RQGVGCjfpJPt1RQC4=",
@@ -90,12 +90,12 @@
       "System.Net.Http.Json.nkfbslrzoe.wasm": "sha256-aVzhjUpGtnuLGD04NXyjODK9qwI5vO7AMbjDw8xIJD0=",
       "System.Net.Http.v8jtdp071o.wasm": "sha256-r/fwTI2ZYDMxCcppnkHwloSfLKSm2BsRDhwnHFl/bHw=",
       "System.Net.Primitives.yjcmep7m7h.wasm": "sha256-DqsumNiS0cF1FXZ5sSRsGHgAG63fChKhelkEA9f6A50=",
-      "System.Private.Uri.oo7tmb2c4p.wasm": "sha256-2DEB1mkngR2e/bQxfx5T7ZkEgl1cejJFC/f/gnfpGK8=",
+      "System.Private.Uri.9uvexngjch.wasm": "sha256-sdXMMrlon6JycrDCIvIjZg6QcpVNJssp+38s6DyJp3s=",
       "System.Runtime.2o9icaurk8.wasm": "sha256-jmqMtb6A2xmkAopYCeGmfljrc6hGT6/KiA+ZbLfg2As=",
       "System.Text.Encodings.Web.08ymq1fvcr.wasm": "sha256-QPumUm/+bRPi/T+QpPMfrlCeezAnzRk6CmD/iBskgiw=",
       "System.Text.Json.wvvw2wq28w.wasm": "sha256-lLRUxXnDwYD3+vgFT8SDOi9kXtlXUaLRNydbKc8UgWo=",
       "System.Text.RegularExpressions.3ddyst6dmo.wasm": "sha256-J0h0LpWzXEYF0E+lUOiWbLF6UobUv3nu0XKBs3nMIoQ=",
-      "TodoApp.vu6wsfc1yd.wasm": "sha256-tyItMqvbol1SsR8n20p40m3jj5IygOtnZOaIF5M10Cg="
+      "TodoApp.zvkgxab6an.wasm": "sha256-QdmagqDIH+XoQ1U+nAokkVs4lfJtQojHeK7KgYRBOHw="
     }
   },
   "cacheBootResources": true,
