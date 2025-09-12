@@ -1,0 +1,41 @@
+@page "/todo"
+@* @using TodoApp.Models
+@inject TodoService TodoService *@
+
+<h3>My ToDo List</h3>
+
+<input @bind="newTodo" placeholder="Enter new task" />
+<button @onclick="AddTodo">Add</button>
+
+<ul>
+    @foreach (var todo in TodoService.GetAll())
+    {
+        <li>
+            @* <input type="checkbox" @bind="todo.IsDone" @onchange="() => ToggleTodo(todo.Id)" /> *@
+            <input type="checkbox" @bind="todo.IsDone" />
+            <span style="text-decoration:@(todo.IsDone ? "line-through" : "none")">@todo.Title</span>
+            <button @onclick="() => RemoveTodo(todo.Id)">❌</button>
+        </li>
+    }
+</ul>
+
+@code {
+    private string newTodo = "";
+
+    private void AddTodo()
+    {
+        if (!string.IsNullOrWhiteSpace(newTodo))
+        {
+            TodoService.Add(newTodo);
+            newTodo = "";
+        }
+    }
+
+    private void ToggleTodo(int id) => TodoService.ToggleDone(id);
+
+    private void RemoveTodo(int id) => TodoService.Remove(id);
+
+    //SenjaToDo2025!
+    //https://lpwfeklbrbzylxqhdctp.supabase.co
+    //eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imxwd2Zla2xicmJ6eWx4cWhkY3RwIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTc2NTY2NjgsImV4cCI6MjA3MzIzMjY2OH0.BcKRMBV38T2GQ2QtsY5jBobICOA0vWqJtsMU9MQNxLU
+}
